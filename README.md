@@ -197,18 +197,3 @@ Notas importantes sobre iconos y PyInstaller
  - **PyAudio o dependencias nativas**: en Windows puede ser necesario instalar binarios específicos (por ejemplo usar `pipwin` para `PyAudio`).
 
  ---
-
- ## Contribuir
-
- Si quieres que:
- - añada scripts de construcción automáticos (PowerShell) para crear los EXE,
- - añada pruebas básicas o integración CI,
- - o mejore la documentación con capturas de pantalla,
-
- dímelo y lo implemento.
-
- ---
-
- ## Licencia
-
- Proyecto sin licencia explícita (añade una si quieres compartirlo públicamente).
